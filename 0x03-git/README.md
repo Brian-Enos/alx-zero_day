@@ -23,7 +23,7 @@ This repository contains the tasks given during the course of my software engine
 * [Learning branching](https://learngitbranching.js.org/)
 * [Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 # **Learning Objectives**
-At the end of this project, I was expected to be able to [explain to anyone](), without the help of Google amd to understand:
+At the end of this project, I was expected to be able to [explain to anyone](https://fs.blog/feynman-technique/), without the help of Google and to understand:
 
 * What is source code management
 * What is Git
