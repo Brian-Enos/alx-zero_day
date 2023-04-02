@@ -52,6 +52,14 @@ At the end of this project, I was expected to be able to [explain to anyone](htt
 ### **Basic usage**
 At the end of the project i was to be able  to reproduce and understand the following command lines:
 
+```
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin main
+```
+
 
 ## **Note**
 
